@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 📫 twitter: @htnarak
+### 📫 Twitter: Aishwarya Karanth @htnarak
+### 👉 Website: [akaranth.me](http://akaranth.me)
 
 <!--
 **AishwaryaKaranth/AishwaryaKaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
