@@ -1,5 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning React
 ### 📫 Twitter: Aishwarya Karanth @htnarak
+### Portfolio: [akaranth.me](http://akaranth.me)
 
 <!--
 **AishwaryaKaranth/AishwaryaKaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
