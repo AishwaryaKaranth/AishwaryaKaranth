@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React
-### 📫 Twitter: Aishwarya Karanth @htnarak
 ### Portfolio: [akaranth.me](http://akaranth.me)
 
 <!--
