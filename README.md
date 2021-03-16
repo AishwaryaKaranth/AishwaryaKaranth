@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React
 ### Portfolio: [akaranth.me](http://akaranth.me)
 
 <!--
