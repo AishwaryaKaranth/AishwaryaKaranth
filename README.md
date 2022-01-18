@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Portfolio: [akaranth.me](http://akaranth.me)
+### Check out my portfolio here!(https://akaranth.netlify.app/)
 
 <!--
 **AishwaryaKaranth/AishwaryaKaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
